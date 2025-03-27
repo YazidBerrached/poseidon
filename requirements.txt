@@ -1,0 +1,12 @@
+chainlit
+sqlalchemy
+pandas
+pydantic
+llama_index
+IPython
+mistralai
+tiktoken
+llama_index.embeddings.mistralai
+psycopg2
+psycopg2-binary
+psycopg
